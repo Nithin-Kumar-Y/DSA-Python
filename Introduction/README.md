@@ -114,7 +114,7 @@ The topics are arranged from **basic to advanced**:
 
 ## **8. How to Use This Repository**
 
-* Start from `00-introduction`
+* Start from `Introduction`
 * Learn concepts from each topic’s `README.md`
 * Practice using Python files inside `code/`
 * Try to solve problems before checking solutions
@@ -147,4 +147,4 @@ Focus on understanding, not rushing.
 
 ---
 
-**Author:** NITHIN KUMMAR Y 🚀
+**Author:** NITHIN KUMAR Y 🚀
